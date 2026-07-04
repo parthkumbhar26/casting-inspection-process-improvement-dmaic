@@ -314,4 +314,4 @@ Implementation of the proposed recommendations could:
 
 **Parth Kumbhar**
 
-Mechanical Engineering • Manufacturing Operations • Quality Engineering • Six Sigma
+Mechanical Engineering • Manufacturing Operations • Six Sigma
